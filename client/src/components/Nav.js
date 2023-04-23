@@ -1,11 +1,17 @@
-import "../App";
+import React from "react";
 
-function Nav() {
+const Nav = () => {
+    const signOut = () => {
+        alert("User signed out!");
+    };
     return (
-      <div>
-        <p>Hello World!</p>
-      </div>
+        <nav className='navbar'>
+            <h2>Threadify</h2>
+            <div className='navbarRight'>
+                <button onClick={signOut}>Sign out</button>
+            </div>
+        </nav>
     );
-  }
-  
-  export default Nav;
+};
+
+export default Nav;
