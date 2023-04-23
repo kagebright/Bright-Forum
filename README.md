@@ -29,8 +29,7 @@ This is a forum system that allows users to create, react, and reply to post thr
 This app was developed by [Bright Abety](https://github.com/kagebright)
 
 ## Screenshots
-[Login Page]
-![Screenshot 2023-04-23 at 4 46 21 PM](https://user-images.githubusercontent.com/113262558/233865625-41522b28-2ff7-4491-a24a-686689f46916.png)
+[Login Page](![Screenshot 2023-04-23 at 4 46 21 PM](https://user-images.githubusercontent.com/113262558/233865625-41522b28-2ff7-4491-a24a-686689f46916.png))
 
 
 ## License
